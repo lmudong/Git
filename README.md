@@ -1,9 +1,10 @@
 # Git
 Git使用方法以及相关命令
-1、通过使用一下命令添加邮箱以及用户名
-   git config --global user.email "****@**.com"
-   git config --global user.name "***"
-  
+
+1、使用一下命令添加邮箱和用户名
+   git config --global user.email "##"
+   git config --global user.name  "##"
+   
 2、git status （查看当前文件的状态）
 
 3、git add 文件名 （将文件添加到暂存区）
